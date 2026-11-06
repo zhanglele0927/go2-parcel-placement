@@ -6,7 +6,7 @@
 
 输入单张照片，输出候选区域标注和检测摘要。本图来自本机插件运行。
 
-![Go2 快递候选识别输入与输出对比](comparison.jpg)
+![Go2 快递候选识别输入与输出对比]<img width="1619" height="834" alt="go2-parcel-compare" src="https://github.com/user-attachments/assets/04b55ca6-b3d0-4df7-89a5-a6c28098afce" />
 
 本次本地运行检出 0 个候选区域，包裹放置状态需人工复核。
 
